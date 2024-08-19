@@ -3,6 +3,7 @@
 *.xlsx
 *.env
 *.pdf
+*.docx
 
 
 # Byte-compiled / optimized / DLL files
